@@ -131,7 +131,7 @@ footer ul{
     margin-top: 25px;
     border-radius: 125px;
 }
-.project-footer ul{
+.feeter ul{
     margin-bottom: 0;
     position: relative;
 }
@@ -192,7 +192,17 @@ footer ul{
 	border-top-color: #4CC713;
 	animation-play-state: running;
 }
+.sub-section3{
 
+}
+.feeter{
+    position: fixed;
+}
+@media only screen and (max-width: 600px){
+    .feeter{
+        position: relative;
+    }    
+}
 @media only screen and (max-width: 1000px) {
     .Project-container {
       display: flex;
