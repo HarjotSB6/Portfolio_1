@@ -108,7 +108,12 @@ footer ul{
     text-align: center;
     padding: 80px;
     padding-top: 0px;
-  }
+}
+.sub-section1{
+    display: inline;
+    text-align: center;
+    padding-top: 80px;
+}
 .Project-container{
     display: flex;
     justify-content: space-around;
